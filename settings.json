@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "tamil-smp.sadhost.com",
+    "port": 26655,
     "version": "1.20.1",
     "try-creative": false
   },
